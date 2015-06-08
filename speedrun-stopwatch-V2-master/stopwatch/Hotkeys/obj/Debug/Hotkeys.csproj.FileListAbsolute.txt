@@ -1,0 +1,9 @@
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\Hotkeys\bin\Debug\Hotkeys.dll
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\Hotkeys\obj\Debug\Hotkeys.dll
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\Hotkeys\obj\Debug\Hotkeys.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\Hotkeys\bin\Debug\Hotkeys.dll
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\Hotkeys\bin\Debug\Hotkeys.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\Hotkeys\obj\Debug\Hotkeys.csprojResolveAssemblyReference.cache
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\Hotkeys\obj\Debug\Hotkeys.dll
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\Hotkeys\obj\Debug\Hotkeys.pdb

@@ -1,0 +1,58 @@
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\jose.caldas\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\Zeca\Desktop\speedrun stopwatch\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\Filipe\Downloads\Minecraft VV\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\seeduc\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\Hotkeys.dll
+C:\Users\Zeca\Desktop\speedrun stopwatch V2\stopwatch\stopwatch\bin\Debug\Hotkeys.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\bin\Debug\Hotkeys.dll
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\bin\Debug\Hotkeys.pdb
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.csprojResolveAssemblyReference.cache
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.Form1.resources
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.Properties.Resources.resources
+C:\Users\jose.caldas\Desktop\speedrun-stopwatch-V2-master\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.GenerateResource.Cache
